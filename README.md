@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
     <title>Заголовки</title>
   </head>
@@ -16,7 +16,7 @@
         <a href"Z20022024.html"> <h2> Завдання 20.02.2024 </h2></a>
       </section>
       <footer> 
-      <h5>GermanOnly</h5>
+        <h5>GermanOnly</h5>
       </footer>
   </body>
-</html>
+    </html>
